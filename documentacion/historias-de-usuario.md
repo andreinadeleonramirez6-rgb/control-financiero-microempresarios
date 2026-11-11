@@ -11,8 +11,8 @@ Este documento recoge las 35 historias de usuario (requerimientos) del proyecto.
 | Label | Uso |
 |---|---|
 | `historia-usuario` | Las 35 historias de usuario |
-| `requerimiento` | Disponible para clasificar requerimientos (todavía sin usar) |
-| `bug` | Errores detectados durante el desarrollo (todavía sin usar) |
+| `requerimiento` | Disponible para clasificar requerimientos |
+| `bug` | Errores detectados durante el desarrollo |
 | `prioridad-alta` | Prioridad alta |
 | `prioridad-media` | Prioridad media |
 | `prioridad-baja` | Prioridad baja |
